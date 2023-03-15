@@ -1,0 +1,28 @@
+/* all of your css goes here */
+header {
+    background-image: url('https://imageio.forbes.com/specials-images/imageserve/5ed68e8310716f0007411996/0x0.jpg?format=jpg&width=1200');
+    background-size: cover;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-bottom: 650px;
+    text-align: center;
+}
+
+
+h3 {
+    font-size: 25px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=')
+
+}
+
+h4 {
+    background-image: url('https://uploads.sitepoint.com/wp-content/uploads/2016/01/1452785857main.png') 
+    padding-bottom 350px;
+}
+
+
+
+
